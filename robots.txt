@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ovebouji.github.io/sitemap_index.ovebouji
